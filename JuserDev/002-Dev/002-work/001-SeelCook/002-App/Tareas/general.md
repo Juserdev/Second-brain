@@ -1,0 +1,31 @@
+- [x] corregir botones generales de todas las secciones
+	- [!]  meterlos dentro de un div **conatiner-icons** y encapsular en divs los iconos de edit y delete en el div **er-container**
+- [x] Agregar funcionalidades a los divs
+	- [!] agregar las funcionalidad de la los botones que están en los iconos en los divs que los contienen y si es caso ponerle una clase específica y una común.  
+- [x] agregar clases comunes a los  -titles-sheet
+	- [!] puede ser all-titles-sheet, dejar el nombre de clase especifica por si las moscas y agregar el all-titles-sheet para manipular la mayoria de forma simple
+- [x]  ajustar el logo en vista mobile
+	- [!] en los estilos el logo no se ve lo suficientemete bien ya que al contenedor le falta un pco de espacio arriba y abajo
+- [x] meter logo en div
+	- [!] meter el logo en un div y ajustar la altura y el tamaño del logo de forma simple, en el momento esta dificil porque estoy ajustando completamente el logo sin contenedor
+- [ ] crear un active en mobile para indicar la seccion en la que esta ubicado
+- [ ] Corregir el tamaño de los textos en la vista de escritorio (desktop)
+- [x] cambiar los iconos del sidebar a html
+	- [I] Esto se hizo utilizando innerHTML = 'ponemos el svg'
+	- [b] hay que cambiar las importaciones y ponerles ?raw para que los lea como html y no como ruta  
+- [x] cambiar el color de los iconos de editar y eliminar a blanco
+	- [I] Esto se hizo utilizando innerHTML = 'ponemos el svg'
+	- [b] hay que cambiar las importaciones y ponerles ?raw para que los lea como html y no como ruta  
+- [ ] Corregir estilos de los iconos editar y eliminar
+	- [!] estan con el diseño anterior y toca ponerles bacgrounnd y hover 
+- [x] crear clases unicas para todos los botones de agregar-* en cada seccion
+- [x] corregir porque no funciona el boton de agregar configuraciones
+- [ ] crear una unica funcion toggle
+	- [!] esta funcion es la que abre el formulario para crear cualquier seccion, la funcion se utiliza en el dashboard y pasarle los parametros para no tener varias funciones que hacen lo mismo 
+- [ ] corregir los colores de los inputs
+	- [!] todos estan horrendos 
+- [ ] Crear funciones para buscar en cada seccion
+- [ ] mostrar lso formularios como tarjetas 
+	- [!] esto va a hacer que siga la secuencia de color de la plataforma
+- [ ] Agregar un padding en la descripciones porque si no quedan pegadas a la siguiente columna
+- [ ] ordenar cada seccion

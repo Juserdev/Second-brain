@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - file.folder.contains("003-SteelCook")
+    order:
+      - file.name
+      - Fecha
+      - Proyecto
+    sort:
+      - property: Proyecto
+        direction: ASC
+      - property: file.name
+        direction: ASC

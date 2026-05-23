@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Border",
+  "theme": "obsidian",
+  "accentColor": "",
+  "monospaceFontFamily": "Fira Code",
+  "translucency": true,
+  "showRibbon": true,
+  "nativeMenus": true,
+  "baseFontSize": 16
+}

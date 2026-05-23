@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - file.folder.contains("001-estudio")
+    order:
+      - file.name
+      - Language
+      - Developer
+    sort:
+      - property: Language
+        direction: ASC
+      - property: Developer
+        direction: ASC
+    columnSize:
+      file.name: 464

@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - file.folder.contains("002-work")
+    order:
+      - file.name
+      - category
+      - project
+      - Date
+    sort:
+      - property: project
+        direction: ASC
+    columnSize:
+      note.project: 155

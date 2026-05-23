@@ -1,0 +1,5 @@
+---
+Date: "{{date}}"
+project:
+category:
+---
