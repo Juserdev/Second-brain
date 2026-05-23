@@ -1,1 +1,13 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json-temp
+.obsidian-git-data
+workspace.json
+
+# Papelera y archivos temporales
+.trash/
+.obsidian/trash/
+
+# Cachés del sistema
 .DS_Store
+Thumbs.db
