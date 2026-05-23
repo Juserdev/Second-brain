@@ -105,7 +105,7 @@
       {
         "id": "462b8237375c53a0",
         "type": "tabs",
-        "dimension": 74.60691823899371,
+        "dimension": 74.84276729559748,
         "children": [
           {
             "id": "4e137490a338f468",
@@ -200,7 +200,7 @@
       {
         "id": "187b5ba0e1c6ac0c",
         "type": "tabs",
-        "dimension": 25.393081761006293,
+        "dimension": 25.157232704402517,
         "children": [
           {
             "id": "364a31dc11f83d73",
@@ -230,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65c02304c122315b",
+  "active": "364a31dc11f83d73",
   "lastOpenFiles": [
     "JuserDev/002-Dev/001-estudio/003-React/Task Tracker/Task Tracker.md"
   ]
