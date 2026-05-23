@@ -121,3 +121,6 @@ Este proyecto es ideal para principiantes porque:
 12. [[12 CounterTask]]
 13. [[13 TaskForm]]
 14. [[14 TaskList]]
+
+## DeepWiki
+entrando aqui: [Taks Tracker](https://deepwiki.com/Juserdev/04-task-tracker/1-project-overview) podre leer la informacion del repositorio totalmente desglozada gracias a deepWiki para entender de forma simple el repositorio, no se veran los detalles de las funciones pero sirve pare entender muchas cosas
