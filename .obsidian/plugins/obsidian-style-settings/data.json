@@ -1,0 +1,8 @@
+{
+  "Appearance-light@@card-layout-open-light": false,
+  "Appearance-light@@theme-light-style-select": "theme-light-background-default",
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
+  "Mobile@@card-layout-pad-open": true,
+  "Plugin@@DB-table-full-width-off": false
+}
